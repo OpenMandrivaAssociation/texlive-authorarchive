@@ -1,6 +1,6 @@
 Name:		texlive-authorarchive
 Version:	63146
-Release:	1
+Release:	2
 Summary:	Adds self-archiving information to scientific papers
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/authorarchive
