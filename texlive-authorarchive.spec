@@ -3,7 +3,7 @@ Version:	65777
 Release:	1
 Summary:	Adds self-archiving information to scientific papers
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/authorarchive
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/authorarchive
 License:	lppl1.3c bsd2
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/authorarchive.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/authorarchive.doc.r%{version}.tar.xz
